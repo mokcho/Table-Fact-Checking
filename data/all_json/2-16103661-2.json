@@ -1,0 +1,1 @@
+{"block": ["block i", "block ii", "block iia", "block iir", "block iirm", "block iif", "total"], "launched": ["11", "9", "19", "13", "8", "4", "64"], "operational": ["0", "0", "8", "12", "7", "4", "31"], "not usable": ["0", "0", "1", "0", "0", "0", "1"], "retired": ["10", "9", "10", "0", "1", "0", "30"], "launch failures": ["1", "0", "0", "1", "0", "0", "2"]}

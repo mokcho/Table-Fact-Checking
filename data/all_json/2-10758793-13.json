@@ -1,0 +1,1 @@
+{"fat16": ["yes", "yes", "yes", "yes", "yes", "yes"], "fat32": ["no", "no", "yes", "yes", "yes", "yes"], "hpfs": ["yes", "partial", "no", "no", "no", "no"], "iso 9660": ["yes", "yes", "yes", "yes", "yes", "yes"], "ntfs": ["yes v1.0 / v1.1", "yes v1.2", "yes v3.0", "yes v3.1", "yes v5", "yes v5"], "refs": ["no", "no", "no", "no", "no", "yes"]}
